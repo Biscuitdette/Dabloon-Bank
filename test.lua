@@ -346,7 +346,7 @@ function Mainholder:Window(hubname, gamename)
    Discord.Position = UDim2.new(-3.4289414e-07, 0, 0, 0)
    Discord.Size = UDim2.new(1.00000072, 0, 0, 20)
    Discord.Font = Enum.Font.Gotham
-   Discord.Text = "Internal UI"
+   Discord.Text = "Fermer"
    Discord.TextColor3 = Color3.fromRGB(255, 255, 255)
    Discord.TextSize = 13.000
    Discord.TextTransparency = 0.400
