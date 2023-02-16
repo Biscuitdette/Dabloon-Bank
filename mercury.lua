@@ -861,7 +861,7 @@ function Library:create(options)
 
 	settingsTab:keybind{
 		Name = "Toggle Key",
-		Description = "Key to show/hide the UI.",
+		Description = "Veuillez entrer une keybind pour masquer/apparaitre le script.",
 		Keybind = Enum.KeyCode.Delete,
 		Callback = function()
 			self.Toggled = not self.Toggled
@@ -897,8 +897,8 @@ function Library:create(options)
 	rawset(mt, "creditsContainer", creditsTab.container)
 
 	creditsTab:credit{Name = "Biscuitdette", Description = "Developpeur", Discord = "Biscuitdette#0001", Github="https://github.com/Biscuitdette"}
-	creditsTab:credit{Name = "Lopotichat", Description = "Testeur", Discord = "lopotichat#7936"}
 	creditsTab:credit{Name = "C3pitain", Description = "Testeur", Discord = "Dwalen#0237"}
+	creditsTab:credit{Name = "Lopotichat", Description = "Testeur", Discord = "lopotichat#7936"}
 
 	return mt
 end
