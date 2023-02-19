@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Florent</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from France</h3>
 
 - 🔭 I’m currently working on a [script hub](https://github.com/Biscuitdette/Roblox-Scripts/blob/main/Biscuitdette-Hub)
 
