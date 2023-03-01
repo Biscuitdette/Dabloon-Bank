@@ -852,10 +852,27 @@ function Library:create(options)
 	}, Library)
 
 	local settingsTab = Library.tab(mt, {
-		Name = "Paramètres",
+		Name = "ParamètresParamètres",
 		Internal = settingsTabIcon,
 		Icon = "rbxassetid://8559790237"
 	})
+
+	}):tooltip("Paramètres")
+
+	local chatTabIcon = profile:object("ImageButton", {
+		BackgroundTransparency = 1,
+		Theme = {ImageColor3 = "WeakText"},
+		Size = UDim2.fromOffset(24, 24),
+		Position = UDim2.new(1, -65, 1, -10),
+		AnchorPoint = Vector2.new(1, 1),
+		Image = "http://www.roblox.com/asset/?id=8577523456"
+	local chatTab = Library.tab(mt, {
+		Name = "Paramètress",
+		Internal = settingsTabIcon,
+		Icon = "rbxassetid://8559790237"
+	})
+
+	}):tooltip("gay")
 
 	settingsTab:_theme_selector()
 
