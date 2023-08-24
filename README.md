@@ -1,9 +1,7 @@
-## Dabloon bank V2.1
+## Dabloon Bank V2.1
 
 Version : V2.1
 
-Updates :
+Mises à jour :
 
--Adding data save.
--Easily shortcut to access.
--Adding pets.
+-Ajout d'une sauvegarde de données, raccourci facile pour accéder et ajouter des animaux de compagnie.
